@@ -53,6 +53,6 @@ Mean Squared Error (MSE): The average of the squared differences between the pre
 R-squared (R2) Score: The proportion of the variance in the dependent variable that is predictable from the independent variables.
 
 ## 🏆 Results and Conclusion
-Based on the comparison of the model evaluation metrics, the Random Forest Regressor performed the best with the lowest MAE and MSE, and the highest R-squared score. This indicates that the ensemble approach of Random Forest was most effective in capturing the complex relationships within the data to make accurate price predictions.
+Based on the comparison of the model evaluation metrics, the Random Forest Regressor performed the best with the lowest MSE, and the highest R-squared score. This indicates that the ensemble approach of Random Forest was most effective in capturing the complex relationships within the data to make accurate price predictions.
 
 The key factors influencing the selling price of a used car were found to be the present price, the age of the car, and whether the transmission is automatic or manual.
